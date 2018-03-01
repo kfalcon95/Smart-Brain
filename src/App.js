@@ -9,7 +9,7 @@ import Rank from './components/Rank/Rank';
 import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 import './App.css';
 
-const particlesOptions = {    //https://vincentgarreau.com/particles.js/
+const particlesOptions = {    //from https://vincentgarreau.com/particles.js/
   particles: {
     number: {
       value: 150,
