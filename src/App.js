@@ -20,6 +20,7 @@ const particlesOptions = {    //https://vincentgarreau.com/particles.js/
     }
   }               
 }
+
 const initialState = {
     input: '',
     imageUrl: '',
